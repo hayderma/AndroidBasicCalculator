@@ -1,0 +1,5 @@
+CHANGED,C:\AndroidT\AndroidBasicCalculator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\gladys\app_calculator\MainActivity$18$override.class
+CHANGED,C:\AndroidT\AndroidBasicCalculator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\gladys\app_calculator\MainActivity$17$override.class
+CHANGED,C:\AndroidT\AndroidBasicCalculator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\AndroidT\AndroidBasicCalculator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\gladys\app_calculator\MainActivity$override.class
+CHANGED,C:\AndroidT\AndroidBasicCalculator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\gladys\app_calculator\MainActivity$16$override.class
